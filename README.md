@@ -7,4 +7,4 @@ A simple Rock, Paper, Scissors game played against a computer.
 3. The result of the round will be displayed on the screen.
 
 **Credits**
-SuperSimpleDev - [Link to Tutorial]([url](https://www.youtube.com/watch?v=SBmSRK3feww)https://www.youtube.com/watch?v=SBmSRK3feww)
+SuperSimpleDev - [Link to Tutorial]([https://www.youtube.com/watch?v=SBmSRK3feww)https://www.youtube.com/watch?v=SBmSRK3feww]
